@@ -1,1 +1,1 @@
-export const getStats = (repositoryName: string) => `repo: ${repositoryName}`
+export const getStats = (repositoryName: string) => `repo: ${repositoryName}`;
