@@ -1,8 +1,9 @@
 {
-  "name": "npm-pkg-github-issue-stats",
+  "name": "github-issue-stats",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc",
     "format": "prettier --write 'src/**/*.ts' && npm run lint",
